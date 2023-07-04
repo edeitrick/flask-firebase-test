@@ -4,7 +4,7 @@
     },
     "preview": {
         "Flask Application": "https://{{domain5000}}/",
-        "Virtual Desktop": "https://{{domain3000}}/",
+        "Virtual Desktop": "https://{{domain3050}}/",
         "Project Index (static)": "https://{{domain}}/{{index}}",
         "Current File (static)": "https://{{domain}}/{{filepath}}",
         "Box URL": "http://{{domain3000}}/",
