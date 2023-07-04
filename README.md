@@ -10,3 +10,9 @@ flask init-db
 ```
 There will now be a flaskr.sqlite file in the instance folder in your project.
 
+## Firebase
+
+Installing Firebase CLI:
+```
+curl -sL https://firebase.tools | bash
+```
